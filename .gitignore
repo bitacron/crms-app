@@ -14,3 +14,10 @@ unpackage/
 # python
 *.pyc
 
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.DS_Store

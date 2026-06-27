@@ -217,7 +217,7 @@
 import request from '@/utils/request.js';
 
 // WebSocket 基础地址（需要支持动态订阅主题）
-const WS_BASE_URL = 'ws://192.168.1.21:8080/ws/environment/websocket';
+const WS_BASE_URL = 'ws://192.168.1.3:8080/ws/environment/websocket';
 
 export default {
   data() {
